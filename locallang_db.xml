@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'df_gamebench'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_dfgamebench_game">game</label>
+			<label index="tx_dfgamebench_game.title">title</label>
+			<label index="tx_dfgamebench_result">result</label>
+			<label index="tx_dfgamebench_result.gameid">gameid</label>
+			<label index="tx_dfgamebench_result.resultvalue">resultvalue</label>
+			<label index="tt_content.list_type_pi1">gamebench</label>
+		</languageKey>
+	</data>
+</T3locallang>
